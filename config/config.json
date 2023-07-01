@@ -22,7 +22,7 @@
   },
 
   "params": {
-    "contact_form_action": "",
+    "contact_form_action": "/success",
     "tag_manager_id": "",
     "footer_content": "",
     "copyright": "Designed and Developed By DigitalQ"
