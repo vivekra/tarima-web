@@ -1,0 +1,36 @@
+{
+  "site": {
+    "title": "TradingArima",
+    "base_url": "/",
+    "favicon": "/images/favicon.ico",
+    "logo": "/images/ta-logo-3tp.png",
+    "logo_width": "230",
+    "logo_height": "48",
+    "logo_text": "TradingArima"
+  },
+
+  "settings": {
+    "pagination": 4,
+    "summary_length": 200,
+    "blog_folder": "blogs"
+  },
+
+  "nav_button": {
+    "enable": true,
+    "label": "Get Started",
+    "link": "/contact"
+  },
+
+  "params": {
+    "contact_form_action": "",
+    "tag_manager_id": "",
+    "footer_content": "",
+    "copyright": "Designed and Developed By DigitalQ"
+  },
+
+  "metadata": {
+    "meta_author": "TradingArima",
+    "meta_image": "",
+    "meta_description": "AI Trading Platform for Next Generation"
+  }
+}
