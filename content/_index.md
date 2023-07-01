@@ -11,29 +11,29 @@ banner:
 feature: 
   title: Something You Need To Know
   features:
-  - name: "Clean Code"
+  - name: "API Bridge"
     icon: "/images/code.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "Object Oriented"
+    content: "Build your own and manage your strategy securely private"
+  - name: "TradingView Indicator"
     icon: "/images/oop.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "24h Service"
+    content: "We are providing a custom tradingview indicator"
+  - name: "Support"
     icon: "/images/user-clock.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    content: "Dedicated support manager available for you to guide and fix any issues"
   - name: "Value for Money"
     icon: "/images/love.svg"
     content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
   - name: "Faster Response"
     icon: "/images/speedometer.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "Cloud Support"
+    content: "Our API platform runs your strategy at faster phase based on your broker availability"
+  - name: "Indicator Marketplace"
     icon: "/images/cloud.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    content: "You can build and sell your strategy through our Marketplace"
 
 # services
 services:
-  - title: "It is the most advanced digital marketing and it company."
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+  - title: "Build Your Own Strategy and Sell it in Our Marketplace."
+    content: "Our Platform can be used to build your own Strategy, Do backtest and can sell it in our marketplace and you can sell your own build Tradingview indicators as well ."
     images:
       - "/images/service-slide-1.png"
       - "/images/service-slide-2.png"
@@ -43,8 +43,8 @@ services:
       label: Check it out
       link: /contact
 
-  - title: "It is a privately owned Information and cyber security company"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+  - title: "Keep Your Strategy Secure and Private"
+    content: "If you would like to build your strategy but dont have the coding knowledge, No Worries, Our team will build your idea into strategy and You can use our cloud environment to run private and secure."
     images: 
       - "/images/service-slide-1.png"
     button:
@@ -52,8 +52,8 @@ services:
       label: Check it out
       link: /contact
   
-  - title: "It’s a team of experienced and skilled people with distributions"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+  - title: "Use Prebuild JSON Code and Deploy in a Second"
+    content: "You can use our pre-build JSON generated code and deploy it with your connected broker within a second, it is easy to use and deploy and gain a profit quickly."
     images:
       - "/images/service-slide-1.png"
       - "/images/service-slide-2.png"
@@ -63,8 +63,8 @@ services:
       label: Check it out
       link: /contact
 
-  - title: "A company standing different from others"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+  - title: "Integrate and View chartink"
+    content: "Filterout value stocks with our prebuild screener or you can customize and build your own parameter to filter value stocks without missing out and identify it ontime."
     images:
       - "/images/service-slide-1.png"
       - "/images/service-slide-2.png"
