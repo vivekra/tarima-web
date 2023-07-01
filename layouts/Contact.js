@@ -14,7 +14,6 @@ const Contact = ({ data }) => {
           <div className="col-12 md:col-6 lg:col-7">
             <form
               className="contact-form"
-              method="POST"
               action={contact_form_action}
               data-netlify="true"
             >
